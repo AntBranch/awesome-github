@@ -196,23 +196,23 @@
 #### App
 
  * [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) [![GitHub stars](https://img.shields.io/github/stars/leichunfeng/MVVMReactiveCocoa.svg)]() - GitBucket iOS App，一个GitHub第三方客户端
- * [Monkey](https://github.com/coderyi/Monkey)  [![GitHub stars](https://img.shields.io/github/stars/coderyi/Monkey.svg)]() - Monkey是一个GitHub第三方iOS客户端，主要是用来展示GitHub上的开发者的排名，以及仓库的排名。
- * [react-native-gitfeed](https://github.com/xiekw2010/react-native-gitfeed) - 一个React Native写的Github客户端，支持iOS和Android
- * [githot](https://github.com/andyiac/githot) - GitHot是一个Android App,用来发现世界上最流行的项目和人
- * [CodeHub](https://github.com/thedillonb/CodeHub) - CodeHub是C#写的，它是iOS设备上最好的GitHub仓库浏览和维护工具。
- * [RepoStumble](https://github.com/thedillonb/RepoStumble) - 查看GitHub仓库的手机客户端
- * [GithubTrends](https://github.com/laowch/GithubTrends) - Material Design风格的查看GitHub仓库trending app
- * [ForkHub](https://github.com/jonan/ForkHub) - Android平台的GitHub客户端
- * [GitEgo](https://github.com/hrules6872/GitEgo) - Android平台的GitHub客户端
- * [Sources](https://github.com/vulgur/Sources) - 一个极简的 Github 客户端，Sources。内置几十个语法高亮的主题可供选择。
- * [igithub](https://github.com/schacon/igithub) - github 的iPhone端
- * [gitmonitor-ios](https://github.com/theotow/gitmonitor-ios) - 一个通知你不用再push代码的iOS app
- * [GithubWidget](https://github.com/Nightonke/GithubWidget) - 轻量级显示Github用户的贡献、星数、Follower数、热门仓库的App。
- * [GitPocket](https://github.com/jindulys/GitPocket) - Swift编写GitHub客户端
- * [GitHubContributionsiOS](https://github.com/JustinFincher/GitHubContributionsiOS) - 显示你的GitHub Contributions的Today Extension,App Store链接,[Contributions for GitHub](https://itunes.apple.com/us/app/contributions-for-github/id1153432612?l=zh&ls=1&mt=8)
- * [github](https://github.com/seasonfif/github) - github第三方Android客户端（适配Material Design）
- * [GitHawk](https://github.com/rnystrom/GitHawk) - 针对 GitHub 项目的项目管理应用
- * [CoolHub](https://github.com/m4coding/CoolHub) - Github Android客户端（基于kotlin和组件化）
+ * [Monkey](https://github.com/coderyi/Monkey) [![GitHub stars](https://img.shields.io/github/stars/coderyi/Monkey.svg)]() - Monkey是一个GitHub第三方iOS客户端，主要是用来展示GitHub上的开发者的排名，以及仓库的排名。
+ * [react-native-gitfeed](https://github.com/xiekw2010/react-native-gitfeed) [![GitHub stars](https://img.shields.io/github/stars/xiekw2010/react-native-gitfeed.svg)]() - 一个React Native写的Github客户端，支持iOS和Android
+ * [githot](https://github.com/andyiac/githot) [![GitHub stars](https://img.shields.io/github/stars/andyiac/githot.svg)]() - GitHot是一个Android App,用来发现世界上最流行的项目和人
+ * [CodeHub](https://github.com/thedillonb/CodeHub) [![GitHub stars](https://img.shields.io/github/stars/thedillonb/CodeHub.svg)]() - CodeHub是C#写的，它是iOS设备上最好的GitHub仓库浏览和维护工具。
+ * [RepoStumble](https://github.com/thedillonb/RepoStumble) [![GitHub stars](https://img.shields.io/github/stars/thedillonb/RepoStumble.svg)]() - 查看GitHub仓库的手机客户端
+ * [GithubTrends](https://github.com/laowch/GithubTrends) [![GitHub stars](https://img.shields.io/github/stars/laowch/GithubTrends.svg)]() - Material Design风格的查看GitHub仓库trending app
+ * [ForkHub](https://github.com/jonan/ForkHub) [![GitHub stars](https://img.shields.io/github/stars/jonan/ForkHub.svg)]() - Android平台的GitHub客户端
+ * [GitEgo](https://github.com/hrules6872/GitEgo) [![GitHub stars](https://img.shields.io/github/stars/hrules6872/GitEgo.svg)]() - Android平台的GitHub客户端
+ * [Sources](https://github.com/vulgur/Sources) [![GitHub stars](https://img.shields.io/github/stars/vulgur/Sources.svg)]() - 一个极简的 Github 客户端，Sources。内置几十个语法高亮的主题可供选择。
+ * [igithub](https://github.com/schacon/igithub) [![GitHub stars](https://img.shields.io/github/stars/schacon/igithub.svg)]() - github 的iPhone端
+ * [gitmonitor-ios](https://github.com/theotow/gitmonitor-ios) [![GitHub stars](https://img.shields.io/github/stars/theotow/gitmonitor-ios.svg)]() - 一个通知你不用再push代码的iOS app
+ * [GithubWidget](https://github.com/Nightonke/GithubWidget) [![GitHub stars](https://img.shields.io/github/stars/Nightonke/GithubWidget.svg)]() - 轻量级显示Github用户的贡献、星数、Follower数、热门仓库的App。
+ * [GitPocket](https://github.com/jindulys/GitPocket) [![GitHub stars](https://img.shields.io/github/stars/jindulys/GitPocket.svg)]() - Swift编写GitHub客户端
+ * [GitHubContributionsiOS](https://github.com/JustinFincher/GitHubContributionsiOS) [![GitHub stars](https://img.shields.io/github/stars/JustinFincher/GitHubContributionsiOS.svg)]() - 显示你的GitHub Contributions的Today Extension,App Store链接,[Contributions for GitHub](https://itunes.apple.com/us/app/contributions-for-github/id1153432612?l=zh&ls=1&mt=8)
+ * [github](https://github.com/seasonfif/github) [![GitHub stars](https://img.shields.io/github/stars/seasonfif/github.svg)]() - github第三方Android客户端（适配Material Design）
+ * [GitHawk](https://github.com/rnystrom/GitHawk) [![GitHub stars](https://img.shields.io/github/stars/rnystrom/GitHawk.svg)]() - 针对 GitHub 项目的项目管理应用
+ * [CoolHub](https://github.com/m4coding/CoolHub) [![GitHub stars](https://img.shields.io/github/stars/m4coding/CoolHub.svg)]() - Github Android客户端（基于kotlin和组件化）
 
 #### 小程序
 
