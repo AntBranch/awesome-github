@@ -359,6 +359,7 @@
  * [git-changelog-lib](https://github.com/tomasbjerre/git-changelog-lib) - 解析和生成changelog，releasenotes的库
  * [gitalk](https://github.com/gitalk/gitalk) - Gitalk 是一个基于 Github Issue 和 Preact 开发的评论插件。
  * [GSIL](https://github.com/FeeiCN/GSIL) - 实时（15分钟内）的发现Github上泄露的信息
+ * [monkeyweb](https://github.com/coderyi/monkeyweb) - GitHub仓库和用户排名的web项目
  
 #### 库
 
@@ -394,6 +395,7 @@
  * [SwiftGit2](https://github.com/SwiftGit2/SwiftGit2) - Swift编写的git实现
  * [GithubPilot](https://github.com/jindulys/GithubPilot) - Swift的GitHub API 封装
  * [GitYourFeedback](https://github.com/gabek/GitYourFeedback) - 让你可以直接在iOS App内feedback时向GitHub提交issue
+ * [monkey-github-api](https://github.com/coderyi/monkey-github-api) - TypeScript编写的GitHub API
 
 ### 其他的awesome
 
