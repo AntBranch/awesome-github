@@ -195,8 +195,8 @@
 
 #### App
 
- * [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa)[![GitHub stars](https://img.shields.io/github/stars/leichunfeng/MVVMReactiveCocoa.svg)]() - GitBucket iOS App，一个GitHub第三方客户端
- * [Monkey](https://github.com/coderyi/Monkey) - Monkey是一个GitHub第三方iOS客户端，主要是用来展示GitHub上的开发者的排名，以及仓库的排名。
+ * [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa) [![GitHub stars](https://img.shields.io/github/stars/leichunfeng/MVVMReactiveCocoa.svg)]() - GitBucket iOS App，一个GitHub第三方客户端
+ * [Monkey](https://github.com/coderyi/Monkey)  [![GitHub stars](https://img.shields.io/github/stars/coderyi/Monkey.svg)]() - Monkey是一个GitHub第三方iOS客户端，主要是用来展示GitHub上的开发者的排名，以及仓库的排名。
  * [react-native-gitfeed](https://github.com/xiekw2010/react-native-gitfeed) - 一个React Native写的Github客户端，支持iOS和Android
  * [githot](https://github.com/andyiac/githot) - GitHot是一个Android App,用来发现世界上最流行的项目和人
  * [CodeHub](https://github.com/thedillonb/CodeHub) - CodeHub是C#写的，它是iOS设备上最好的GitHub仓库浏览和维护工具。
