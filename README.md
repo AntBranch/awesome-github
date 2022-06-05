@@ -160,6 +160,7 @@
  * [GitHub Rank (China)](http://githubrank.com/) - GitHub上中国程序员的排名网站，根据follower
  * [GitHub Ranking | GitHub Awards](http://github-awards.com/) - GitHub上程序员的排名网站，根据star
  * [github-battle](https://github-battle-2.firebaseapp.com/popular) - GitHub仓库排名
+ * [githunt](https://kamranahmed.info/githunt/) - github每日排名
 
 #### Star管理
 
