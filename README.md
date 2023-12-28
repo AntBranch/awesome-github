@@ -3,30 +3,34 @@
 
 收集这个[awesome-github](https://github.com/AntBranch/awesome-github)列表，只是为了更好地使用亲爱的GitHub,欢迎提交pr和issue。
 ###  目录
-- [教程](#教程)
-    - [通用教程](#通用教程)
-    - [Git使用](#git使用)
-    - [GitHub Pages](#github-pages)
-    - [GitBook](#gitbook)
-    - [GitHub API](#github-api)
-    - [Travis CI](#travis-ci)
-- [文章](#文章)
-- [网站](#网站)
-	- [常用网站](#常用网站)
- 	- [GitHub Rank](#github-rank)
-	- [Star管理](#star管理)
-- [工具](#工具)
-	- [常用工具](#常用工具)
-	- [桌面工具](#桌面工具)
-	- [App](#app)
-	- [小程序](#小程序)
-	- [插件](#插件)
-	- [命令行](#命令行)
-	- [Git平台与工具](#git平台与工具)
-- [项目](#项目)
-    - [项目](#项目)
-    - [库](#库)
-- [其他的awesome](#其他的awesome)
+- [awesome-github](#awesome-github)
+		- [目录](#目录)
+		- [教程](#教程)
+			- [通用教程](#通用教程)
+			- [Git使用](#git使用)
+			- [GitHub Pages](#github-pages)
+			- [GitBook](#gitbook)
+			- [GitHub API](#github-api)
+			- [Travis CI](#travis-ci)
+		- [文章](#文章)
+		- [网站](#网站)
+			- [常用网站](#常用网站)
+			- [GitHub Rank](#github-rank)
+			- [Star管理](#star管理)
+		- [工具](#工具)
+			- [常用工具](#常用工具)
+			- [桌面工具](#桌面工具)
+			- [App](#app)
+			- [小程序](#小程序)
+			- [插件](#插件)
+			- [命令行](#命令行)
+			- [Git平台与工具](#git平台与工具)
+		- [项目](#项目)
+			- [项目](#项目-1)
+			- [库](#库)
+		- [其他的awesome](#其他的awesome)
+		- [Contributing](#contributing)
+		- [License](#license)
 
 
 ### 教程
@@ -161,6 +165,7 @@
  * [GitHub Ranking | GitHub Awards](http://github-awards.com/) - GitHub上程序员的排名网站，根据star
  * [github-battle](https://github-battle-2.firebaseapp.com/popular) - GitHub仓库排名
  * [githunt](https://kamranahmed.info/githunt/) - github每日排名
+ * [Gitstar Ranking](https://gitstar-ranking.com/) - 针对用户、组织、仓库的非官方Star排名
 
 #### Star管理
 
