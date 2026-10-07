@@ -296,6 +296,7 @@
  * [gitlab](https://about.gitlab.com/gitlab-com/) - GitLab 是一个用于仓库管理系统的开源项目，地址在[gitlabhq](https://github.com/gitlabhq/gitlabhq)
  * [gitx](https://github.com/pieter/gitx) - Mac平台上的Git GUI客户端
  * [gity](https://github.com/beheadedmyway/gity) - mac的git客户端
+ * [Gitoryx](https://www.gitoryx.com/) - 跨平台 Git 图形客户端，提供可视化提交历史、交互式变基和 Pull Request 管理。
  * [svn2git](https://github.com/nirvdrum/svn2git) - ruby 实现的迁移svn工程到git
  * [stupidgit](https://github.com/gyim/stupidgit) - python编写的git的跨平台GUI
  * [GitUp](https://github.com/git-up/GitUp) - Objective-C编写的Mac上的Git客户端
