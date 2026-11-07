@@ -167,6 +167,7 @@
 
  * [Astral](http://astralapp.com/) - 功能更加简洁。感觉不方便的地方就是需要先添加tag，才能给项目添加tag。
  * [CODELF](http://unbug.github.io/codelf/) - 基于Google Lovefiled，简洁快速，从开发者角度考虑，用完就走，不给开发者更多的管理负担。开源在GitHub上的链接[unbug/codelf](https://github.com/unbug/codelf)
+ * [Stars Organizer](https://github.com/armanckeser/github-stars-organizer) - 把 GitHub Stars 整理进 GitHub Lists 并同步回 GitHub，健康分标出停更的仓库，支持自托管
 
 ### 工具
 
