@@ -264,6 +264,7 @@
  * [github-integration-plugin](https://github.com/KostyaSha/github-integration-plugin) - Jenkins的GitHub集成插件
  * [OctoLinker](https://github.com/OctoLinker/OctoLinker) - 浏览器插件，作用主要是可以跳转到导入的库代码中
  * [octohint](https://github.com/pd4d10/octohint) - 可以帮助阅读代码时候，搜索定位同个变量出现的位置
+ * [Clockoli](https://github.com/Clockoli/clockoli) - 免费开源的 Chrome 浏览器扩展，可在 GitHub Issue 和 Pull Request 上记录工时，并将数据保存到用户自行管理的私有 GitHub 仓库。
 
 #### 命令行
  * [hub](https://github.com/github/hub) - github官方出品的命令行工具，让你更好地使用github
